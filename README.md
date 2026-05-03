@@ -1,7 +1,6 @@
 # news_app
 
-A new Flutter project.
-
+📱 Flutter news app with News API, category filter, search, and web support.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
